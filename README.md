@@ -26,11 +26,11 @@ To develop a **web-based intelligent system** that recommends the most suitable 
 
 | Category                  | Technology                           |
 | ------------------------- | ------------------------------------ |
-| **Frontend**              | React.js, Axios, HTML5, CSS3         |
+| **Frontend**              | React.js, Axios, CSS3         |
 | **Backend**               | Flask (Python)                       |
 | **Machine Learning**      | XGBoost, scikit-learn, pandas, NumPy |
-| **Model Storage**         | Pickle (`pipe.pkl`, `encoder.pkl`)   |
-| **Deployment (optional)** | Render (Flask) + Vercel (React)      |
+| **Model Storage**         | Pickle (`pipe.pkl`)   |
+
 
 ---
 
@@ -112,7 +112,7 @@ The React frontend communicates with the Flask API using Axios.
 
 
 
-## ❤️
+
 
 
 > “Technology is the seed of a sustainable harvest.” 🌱
