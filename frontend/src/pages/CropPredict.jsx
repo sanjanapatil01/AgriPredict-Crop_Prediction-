@@ -283,7 +283,7 @@ function CropPredict() {
                       <div className="crop-details">
                         <div className="detail-item">
                           <strong>Best Season:</strong>
-                          <span>{cropInfo[prediction].season}</span>
+                          <span>{formData.season}</span>
                         </div>
                         <div className="detail-item">
                           <strong>Description:</strong>
